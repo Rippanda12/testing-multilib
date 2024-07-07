@@ -1,0 +1,8 @@
+linux-6.9.tar*
+src/
+pkg/
+linux-*.tar*
+.SRCINFO
+gcc/
+binutils-gdb
+glibc/
